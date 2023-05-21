@@ -1,4 +1,1 @@
-queue = {}
-
-members_cash = {}
-neighbour_cash = {}
+queue = {}   # Working cash
